@@ -1,0 +1,36 @@
+body{
+  background-image: url('https://brattymacy.files.wordpress.com/2014/03/background-summer-wallpapers-hd-e13843814973891.jpg');
+  background-repeat:  no-repeat: 
+  background-size: cover;
+}
+table, th {
+  border: 1px solid black;
+
+}
+th{
+  padding: 10px;
+  font-size: 42px;
+}
+h1{
+  font-style: oblique;
+  text-align: center;
+  font-size: 50px;
+}
+.dates{
+
+  border: solid;
+  text-align: center;
+}
+button{font-size: 25px;
+margin-left: 43%;
+background: linear-gradient(#66CCFF ,#FF6699)
+}
+ .highlight1{
+   background-color: #CC00FF ;
+ }
+.highlight2{
+  background-color: #08F2FA ;
+}
+.highlight3{
+  background-color: #00FF19;
+}
